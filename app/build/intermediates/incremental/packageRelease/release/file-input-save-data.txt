@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Nov 24 02:14:40 IST 2018
+1.base=/Users/praveenverma/Desktop/untitled folder/The Guruji/app/build/intermediates/assets/release
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/praveenverma/Desktop/untitled folder/The Guruji/app/build/intermediates/transforms/dex/release/0
+1.path=font/hindifont.ttf

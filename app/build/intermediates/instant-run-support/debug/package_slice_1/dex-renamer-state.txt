@@ -1,0 +1,4 @@
+#Wed Dec 12 18:55:00 IST 2018
+base.0=/Users/praveenverma/Desktop/untitled folder/The Guruji/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

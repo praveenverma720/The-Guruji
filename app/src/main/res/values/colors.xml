@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="purple">#d06cfa</color>
+    <color name="light_pink">#ff5f60</color>
+    <color name="light_green">#96d100</color>
+    <color name="sky_color">#00a8ff</color>
+    <color name="orange">#FF3D00</color>
+    <color name="light_sky_color">#00E676</color>
+    <color name="dark_purple">#7B1FA2</color>
+    <color name="job_color">#827717</color>
+
+
+
+    <!--education colors-->
+    <color name="e0">#CE93D8</color>
+    <color name="e1">#BA68C8</color>
+    <color name="e2">#AB47BC</color>
+    <color name="e3">#9C27B0</color>
+    <color name="e4">#8E24AA</color>
+    <color name="e5">#7B1FA2</color>
+    <color name="e6">#6A1B9A</color>
+    <color name="e7">#4A148C</color>
+
+    <!--job colors-->
+    <color name="j0">#E6EE9C</color>
+    <color name="j1">#DCE775</color>
+    <color name="j2">#D4E157</color>
+    <color name="j3">#CDDC39</color>
+    <color name="j4">#C0CA33</color>
+    <color name="j5">#AFB42B</color>
+    <color name="j6">#9E9D24</color>
+    <color name="j7">#827717</color>
+
+    <!--phone colors-->
+    <color name="p0">#F48FB1</color>
+    <color name="p1">#F06292</color>
+    <color name="p2">#EC407A</color>
+    <color name="p3">#E91E63</color>
+    <color name="p4">#D81B60</color>
+    <color name="p5">#C2185B</color>
+    <color name="p6">#AD1457</color>
+    <color name="p7">#880E4F</color>
+
+   <!-- sim colors-->
+    <color name="s0">#C5E1A5</color>
+    <color name="s1">#AED581</color>
+    <color name="s2">#9CCC65</color>
+    <color name="s3">#8BC34A</color>
+    <color name="s4">#7CB342</color>
+    <color name="s5">#689F38</color>
+    <color name="s6">#558B2F</color>
+    <color name="s7">#33691E</color>
+
+    <!--computer colors-->
+    <color name="c0">#81D4FA</color>
+    <color name="c1">#4FC3F7</color>
+    <color name="c2">#29B6F6</color>
+    <color name="c3">#03A9F4</color>
+    <color name="c4">#039BE5</color>
+    <color name="c5">#0288D1</color>
+    <color name="c6">#0277BD</color>
+    <color name="c7">#01579B</color>
+
+    <!--game color-->
+    <color name="g0">#FFAB91</color>
+    <color name="g1">#FF8A65</color>
+    <color name="g2">#FF7043</color>
+    <color name="g3">#FF5722</color>
+    <color name="g4">#F4511E</color>
+    <color name="g5">#E64A19</color>
+    <color name="g6">#D84315</color>
+    <color name="g7">#BF360C</color>
+
+    <!--hacking color-->
+    <color name="h0">#B39DDB</color>
+    <color name="h1">#9575CD</color>
+    <color name="h2">#7E57C2</color>
+    <color name="h3">#673AB7</color>
+    <color name="h4">#5E35B1</color>
+    <color name="h5">#512DA8</color>
+    <color name="h6">#4527A0</color>
+    <color name="h7">#311B92</color>
+
+    <!--magic color-->
+    <color name="m0">#81D4FA</color>
+    <color name="m1">#4FC3F7</color>
+    <color name="m2">#29B6F6</color>
+    <color name="m3">#03A9F4</color>
+    <color name="m4">#039BE5</color>
+    <color name="m5">#0288D1</color>
+    <color name="m6">#0277BD</color>
+    <color name="m7">#01579B</color>
+
+</resources>

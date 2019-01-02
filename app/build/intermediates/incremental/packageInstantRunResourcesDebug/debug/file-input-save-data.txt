@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Dec 12 18:54:31 IST 2018
+0.baseType=DIRECTORY
+0.base=/Users/praveenverma/Desktop/untitled folder/The Guruji/app/build/intermediates/assets/debug
+0.path=font/hindifont.ttf
+0.set=ASSET
+count=1
