@@ -12,7 +12,7 @@ public class APIClient {
 //
 ////Define the base URL//
 //
-//    private static final String BASE_URL = "http://3.16.93.165/api/";
+//    
 //
 ////Create the Retrofit instance//
 //
@@ -44,7 +44,7 @@ public class APIClient {
 
 
         retrofit = new Retrofit.Builder()
-                .baseUrl("http://3.16.93.165/api/")
+                .baseUrl("put base url here")
                 .addConverterFactory(GsonConverterFactory.create())
                 .client(client)
                 .build();
