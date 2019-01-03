@@ -46,7 +46,7 @@ public class OpenQuestionSetActivity extends AppCompatActivity {
         webView.setVisibility(View.GONE);
 
 
-        link = "http://3.16.93.165/"+questionlink;
+        link = "base_url"+questionlink;
 
 
         if (filetype.toString().equals("pdf")) {
